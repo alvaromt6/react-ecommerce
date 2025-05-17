@@ -1,12 +1,14 @@
-# React + Vite
+# 🛒 Carrito de Compras en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto de **carrito de compras** desarrollado con **React**. Permite a los usuarios explorar productos, agregarlos al carrito, modificar cantidades y ver el total de la compra.
 
-Currently, two official plugins are available:
+## 🚀 Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Visualización de productos.
+- Agregado y eliminado de productos al carrito.
+- Actualización de cantidades de productos.
+- Cálculo automático del total.
+- Persistencia local del carrito.
+- Diseño responsive.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
